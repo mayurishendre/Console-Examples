@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\xceller\ConsoleFactorial_Function\bin\Debug\netcoreapp3.1\ConsoleFactorial_Function.exe
+C:\Users\ASUS\Desktop\xceller\ConsoleFactorial_Function\bin\Debug\netcoreapp3.1\ConsoleFactorial_Function.deps.json
+C:\Users\ASUS\Desktop\xceller\ConsoleFactorial_Function\bin\Debug\netcoreapp3.1\ConsoleFactorial_Function.runtimeconfig.json
+C:\Users\ASUS\Desktop\xceller\ConsoleFactorial_Function\bin\Debug\netcoreapp3.1\ConsoleFactorial_Function.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\xceller\ConsoleFactorial_Function\bin\Debug\netcoreapp3.1\ConsoleFactorial_Function.dll
+C:\Users\ASUS\Desktop\xceller\ConsoleFactorial_Function\bin\Debug\netcoreapp3.1\ConsoleFactorial_Function.pdb
+C:\Users\ASUS\Desktop\xceller\ConsoleFactorial_Function\obj\Debug\netcoreapp3.1\ConsoleFactorial_Function.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\xceller\ConsoleFactorial_Function\obj\Debug\netcoreapp3.1\ConsoleFactorial_Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\xceller\ConsoleFactorial_Function\obj\Debug\netcoreapp3.1\ConsoleFactorial_Function.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\xceller\ConsoleFactorial_Function\obj\Debug\netcoreapp3.1\ConsoleFactorial_Function.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\xceller\ConsoleFactorial_Function\obj\Debug\netcoreapp3.1\ConsoleFactorial_Function.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\xceller\ConsoleFactorial_Function\obj\Debug\netcoreapp3.1\ConsoleFactorial_Function.dll
+C:\Users\ASUS\Desktop\xceller\ConsoleFactorial_Function\obj\Debug\netcoreapp3.1\ConsoleFactorial_Function.pdb
+C:\Users\ASUS\Desktop\xceller\ConsoleFactorial_Function\obj\Debug\netcoreapp3.1\ConsoleFactorial_Function.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleFactorial_Function/1.0.0": {
+        "runtime": {
+          "ConsoleFactorial_Function.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleFactorial_Function/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

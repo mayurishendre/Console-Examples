@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\xceller\ConsoleAskingValues\ConsoleAskingValuesForLoop\bin\Debug\netcoreapp3.1\ConsoleAskingValuesForLoop.exe
+C:\Users\ASUS\Desktop\xceller\ConsoleAskingValues\ConsoleAskingValuesForLoop\bin\Debug\netcoreapp3.1\ConsoleAskingValuesForLoop.deps.json
+C:\Users\ASUS\Desktop\xceller\ConsoleAskingValues\ConsoleAskingValuesForLoop\bin\Debug\netcoreapp3.1\ConsoleAskingValuesForLoop.runtimeconfig.json
+C:\Users\ASUS\Desktop\xceller\ConsoleAskingValues\ConsoleAskingValuesForLoop\bin\Debug\netcoreapp3.1\ConsoleAskingValuesForLoop.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\xceller\ConsoleAskingValues\ConsoleAskingValuesForLoop\bin\Debug\netcoreapp3.1\ConsoleAskingValuesForLoop.dll
+C:\Users\ASUS\Desktop\xceller\ConsoleAskingValues\ConsoleAskingValuesForLoop\bin\Debug\netcoreapp3.1\ConsoleAskingValuesForLoop.pdb
+C:\Users\ASUS\Desktop\xceller\ConsoleAskingValues\ConsoleAskingValuesForLoop\obj\Debug\netcoreapp3.1\ConsoleAskingValuesForLoop.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\xceller\ConsoleAskingValues\ConsoleAskingValuesForLoop\obj\Debug\netcoreapp3.1\ConsoleAskingValuesForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\xceller\ConsoleAskingValues\ConsoleAskingValuesForLoop\obj\Debug\netcoreapp3.1\ConsoleAskingValuesForLoop.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\xceller\ConsoleAskingValues\ConsoleAskingValuesForLoop\obj\Debug\netcoreapp3.1\ConsoleAskingValuesForLoop.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\xceller\ConsoleAskingValues\ConsoleAskingValuesForLoop\obj\Debug\netcoreapp3.1\ConsoleAskingValuesForLoop.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\xceller\ConsoleAskingValues\ConsoleAskingValuesForLoop\obj\Debug\netcoreapp3.1\ConsoleAskingValuesForLoop.dll
+C:\Users\ASUS\Desktop\xceller\ConsoleAskingValues\ConsoleAskingValuesForLoop\obj\Debug\netcoreapp3.1\ConsoleAskingValuesForLoop.pdb
+C:\Users\ASUS\Desktop\xceller\ConsoleAskingValues\ConsoleAskingValuesForLoop\obj\Debug\netcoreapp3.1\ConsoleAskingValuesForLoop.genruntimeconfig.cache

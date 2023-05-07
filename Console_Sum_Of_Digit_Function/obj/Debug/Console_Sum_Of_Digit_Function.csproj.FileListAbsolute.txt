@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\xceller\Console_Sum_Of_Digit_Function\bin\Debug\Console_Sum_Of_Digit_Function.exe.config
+C:\Users\ASUS\Desktop\xceller\Console_Sum_Of_Digit_Function\bin\Debug\Console_Sum_Of_Digit_Function.exe
+C:\Users\ASUS\Desktop\xceller\Console_Sum_Of_Digit_Function\bin\Debug\Console_Sum_Of_Digit_Function.pdb
+C:\Users\ASUS\Desktop\xceller\Console_Sum_Of_Digit_Function\obj\Debug\Console_Sum_Of_Digit_Function.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\xceller\Console_Sum_Of_Digit_Function\obj\Debug\Console_Sum_Of_Digit_Function.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\xceller\Console_Sum_Of_Digit_Function\obj\Debug\Console_Sum_Of_Digit_Function.exe
+C:\Users\ASUS\Desktop\xceller\Console_Sum_Of_Digit_Function\obj\Debug\Console_Sum_Of_Digit_Function.pdb

@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\xceller\ComboBoxSelected\bin\Debug\ComboBoxSelected.exe.config
+C:\Users\ASUS\Desktop\xceller\ComboBoxSelected\bin\Debug\ComboBoxSelected.exe
+C:\Users\ASUS\Desktop\xceller\ComboBoxSelected\bin\Debug\ComboBoxSelected.pdb
+C:\Users\ASUS\Desktop\xceller\ComboBoxSelected\obj\Debug\ComboBoxSelected.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\xceller\ComboBoxSelected\obj\Debug\ComboBoxSelected.Form1.resources
+C:\Users\ASUS\Desktop\xceller\ComboBoxSelected\obj\Debug\ComboBoxSelected.Properties.Resources.resources
+C:\Users\ASUS\Desktop\xceller\ComboBoxSelected\obj\Debug\ComboBoxSelected.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\xceller\ComboBoxSelected\obj\Debug\ComboBoxSelected.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\xceller\ComboBoxSelected\obj\Debug\ComboBoxSelected.exe
+C:\Users\ASUS\Desktop\xceller\ComboBoxSelected\obj\Debug\ComboBoxSelected.pdb

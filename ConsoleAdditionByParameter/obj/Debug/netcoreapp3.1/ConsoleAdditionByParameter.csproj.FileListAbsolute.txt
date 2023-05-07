@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\xceller\ConsoleAdditionByParameter\obj\Debug\netcoreapp3.1\ConsoleAdditionByParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\xceller\ConsoleAdditionByParameter\obj\Debug\netcoreapp3.1\ConsoleAdditionByParameter.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\xceller\ConsoleAdditionByParameter\obj\Debug\netcoreapp3.1\ConsoleAdditionByParameter.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\xceller\ConsoleAdditionByParameter\obj\Debug\netcoreapp3.1\ConsoleAdditionByParameter.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\xceller\ConsoleAdditionByParameter\bin\Debug\netcoreapp3.1\ConsoleAdditionByParameter.exe
+C:\Users\ASUS\Desktop\xceller\ConsoleAdditionByParameter\bin\Debug\netcoreapp3.1\ConsoleAdditionByParameter.deps.json
+C:\Users\ASUS\Desktop\xceller\ConsoleAdditionByParameter\bin\Debug\netcoreapp3.1\ConsoleAdditionByParameter.runtimeconfig.json
+C:\Users\ASUS\Desktop\xceller\ConsoleAdditionByParameter\bin\Debug\netcoreapp3.1\ConsoleAdditionByParameter.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\xceller\ConsoleAdditionByParameter\bin\Debug\netcoreapp3.1\ConsoleAdditionByParameter.dll
+C:\Users\ASUS\Desktop\xceller\ConsoleAdditionByParameter\bin\Debug\netcoreapp3.1\ConsoleAdditionByParameter.pdb
+C:\Users\ASUS\Desktop\xceller\ConsoleAdditionByParameter\obj\Debug\netcoreapp3.1\ConsoleAdditionByParameter.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\xceller\ConsoleAdditionByParameter\obj\Debug\netcoreapp3.1\ConsoleAdditionByParameter.dll
+C:\Users\ASUS\Desktop\xceller\ConsoleAdditionByParameter\obj\Debug\netcoreapp3.1\ConsoleAdditionByParameter.pdb
+C:\Users\ASUS\Desktop\xceller\ConsoleAdditionByParameter\obj\Debug\netcoreapp3.1\ConsoleAdditionByParameter.genruntimeconfig.cache

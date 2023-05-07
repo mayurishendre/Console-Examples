@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\xceller\Console_Student_Info_Class\obj\Debug\Console_Student_Info_Class.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\xceller\Console_Student_Info_Class\obj\Debug\Console_Student_Info_Class.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\xceller\Console_Student_Info_Class\bin\Debug\Console_Student_Info_Class.exe.config
+C:\Users\ASUS\Desktop\xceller\Console_Student_Info_Class\bin\Debug\Console_Student_Info_Class.exe
+C:\Users\ASUS\Desktop\xceller\Console_Student_Info_Class\bin\Debug\Console_Student_Info_Class.pdb
+C:\Users\ASUS\Desktop\xceller\Console_Student_Info_Class\obj\Debug\Console_Student_Info_Class.exe
+C:\Users\ASUS\Desktop\xceller\Console_Student_Info_Class\obj\Debug\Console_Student_Info_Class.pdb

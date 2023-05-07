@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\xceller\Console_Object_Returning_console\bin\Debug\Console_Object_Returning_console.exe.config
+C:\Users\ASUS\Desktop\xceller\Console_Object_Returning_console\bin\Debug\Console_Object_Returning_console.exe
+C:\Users\ASUS\Desktop\xceller\Console_Object_Returning_console\bin\Debug\Console_Object_Returning_console.pdb
+C:\Users\ASUS\Desktop\xceller\Console_Object_Returning_console\obj\Debug\Console_Object_Returning_console.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\xceller\Console_Object_Returning_console\obj\Debug\Console_Object_Returning_console.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\xceller\Console_Object_Returning_console\obj\Debug\Console_Object_Returning_console.exe
+C:\Users\ASUS\Desktop\xceller\Console_Object_Returning_console\obj\Debug\Console_Object_Returning_console.pdb

@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\xceller\Console_PrintArray_Function\bin\Debug\netcoreapp3.1\Console_PrintArray_Function.exe
+C:\Users\ASUS\Desktop\xceller\Console_PrintArray_Function\bin\Debug\netcoreapp3.1\Console_PrintArray_Function.deps.json
+C:\Users\ASUS\Desktop\xceller\Console_PrintArray_Function\bin\Debug\netcoreapp3.1\Console_PrintArray_Function.runtimeconfig.json
+C:\Users\ASUS\Desktop\xceller\Console_PrintArray_Function\bin\Debug\netcoreapp3.1\Console_PrintArray_Function.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\xceller\Console_PrintArray_Function\bin\Debug\netcoreapp3.1\Console_PrintArray_Function.dll
+C:\Users\ASUS\Desktop\xceller\Console_PrintArray_Function\bin\Debug\netcoreapp3.1\Console_PrintArray_Function.pdb
+C:\Users\ASUS\Desktop\xceller\Console_PrintArray_Function\obj\Debug\netcoreapp3.1\Console_PrintArray_Function.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\xceller\Console_PrintArray_Function\obj\Debug\netcoreapp3.1\Console_PrintArray_Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\xceller\Console_PrintArray_Function\obj\Debug\netcoreapp3.1\Console_PrintArray_Function.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\xceller\Console_PrintArray_Function\obj\Debug\netcoreapp3.1\Console_PrintArray_Function.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\xceller\Console_PrintArray_Function\obj\Debug\netcoreapp3.1\Console_PrintArray_Function.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\xceller\Console_PrintArray_Function\obj\Debug\netcoreapp3.1\Console_PrintArray_Function.dll
+C:\Users\ASUS\Desktop\xceller\Console_PrintArray_Function\obj\Debug\netcoreapp3.1\Console_PrintArray_Function.pdb
+C:\Users\ASUS\Desktop\xceller\Console_PrintArray_Function\obj\Debug\netcoreapp3.1\Console_PrintArray_Function.genruntimeconfig.cache

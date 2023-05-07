@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\xceller\Console_Reverse_Number_Function\bin\Debug\Console_Reverse_Number_Function.exe.config
+C:\Users\ASUS\Desktop\xceller\Console_Reverse_Number_Function\bin\Debug\Console_Reverse_Number_Function.exe
+C:\Users\ASUS\Desktop\xceller\Console_Reverse_Number_Function\bin\Debug\Console_Reverse_Number_Function.pdb
+C:\Users\ASUS\Desktop\xceller\Console_Reverse_Number_Function\obj\Debug\Console_Reverse_Number_Function.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\xceller\Console_Reverse_Number_Function\obj\Debug\Console_Reverse_Number_Function.exe
+C:\Users\ASUS\Desktop\xceller\Console_Reverse_Number_Function\obj\Debug\Console_Reverse_Number_Function.pdb

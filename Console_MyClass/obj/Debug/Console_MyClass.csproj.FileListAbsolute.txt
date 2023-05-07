@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\xceller\Console_MyClass\bin\Debug\Console_MyClass.exe.config
+C:\Users\ASUS\Desktop\xceller\Console_MyClass\bin\Debug\Console_MyClass.exe
+C:\Users\ASUS\Desktop\xceller\Console_MyClass\bin\Debug\Console_MyClass.pdb
+C:\Users\ASUS\Desktop\xceller\Console_MyClass\obj\Debug\Console_MyClass.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\xceller\Console_MyClass\obj\Debug\Console_MyClass.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\xceller\Console_MyClass\obj\Debug\Console_MyClass.exe
+C:\Users\ASUS\Desktop\xceller\Console_MyClass\obj\Debug\Console_MyClass.pdb

@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\xceller\Console_Vowel_Function\bin\Debug\Console_Vowel_Function.exe.config
+C:\Users\ASUS\Desktop\xceller\Console_Vowel_Function\bin\Debug\Console_Vowel_Function.exe
+C:\Users\ASUS\Desktop\xceller\Console_Vowel_Function\bin\Debug\Console_Vowel_Function.pdb
+C:\Users\ASUS\Desktop\xceller\Console_Vowel_Function\obj\Debug\Console_Vowel_Function.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\xceller\Console_Vowel_Function\obj\Debug\Console_Vowel_Function.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\xceller\Console_Vowel_Function\obj\Debug\Console_Vowel_Function.exe
+C:\Users\ASUS\Desktop\xceller\Console_Vowel_Function\obj\Debug\Console_Vowel_Function.pdb

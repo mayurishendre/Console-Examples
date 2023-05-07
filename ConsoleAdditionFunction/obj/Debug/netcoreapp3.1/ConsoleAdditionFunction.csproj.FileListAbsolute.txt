@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\xceller\ConsoleAdditionFunction\bin\Debug\netcoreapp3.1\ConsoleAdditionFunction.exe
+C:\Users\ASUS\Desktop\xceller\ConsoleAdditionFunction\bin\Debug\netcoreapp3.1\ConsoleAdditionFunction.deps.json
+C:\Users\ASUS\Desktop\xceller\ConsoleAdditionFunction\bin\Debug\netcoreapp3.1\ConsoleAdditionFunction.runtimeconfig.json
+C:\Users\ASUS\Desktop\xceller\ConsoleAdditionFunction\bin\Debug\netcoreapp3.1\ConsoleAdditionFunction.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\xceller\ConsoleAdditionFunction\bin\Debug\netcoreapp3.1\ConsoleAdditionFunction.dll
+C:\Users\ASUS\Desktop\xceller\ConsoleAdditionFunction\bin\Debug\netcoreapp3.1\ConsoleAdditionFunction.pdb
+C:\Users\ASUS\Desktop\xceller\ConsoleAdditionFunction\obj\Debug\netcoreapp3.1\ConsoleAdditionFunction.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\xceller\ConsoleAdditionFunction\obj\Debug\netcoreapp3.1\ConsoleAdditionFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\xceller\ConsoleAdditionFunction\obj\Debug\netcoreapp3.1\ConsoleAdditionFunction.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\xceller\ConsoleAdditionFunction\obj\Debug\netcoreapp3.1\ConsoleAdditionFunction.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\xceller\ConsoleAdditionFunction\obj\Debug\netcoreapp3.1\ConsoleAdditionFunction.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\xceller\ConsoleAdditionFunction\obj\Debug\netcoreapp3.1\ConsoleAdditionFunction.dll
+C:\Users\ASUS\Desktop\xceller\ConsoleAdditionFunction\obj\Debug\netcoreapp3.1\ConsoleAdditionFunction.pdb
+C:\Users\ASUS\Desktop\xceller\ConsoleAdditionFunction\obj\Debug\netcoreapp3.1\ConsoleAdditionFunction.genruntimeconfig.cache

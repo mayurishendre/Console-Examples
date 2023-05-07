@@ -1,0 +1,2 @@
+C:\Users\ASUS\Desktop\xceller\Console_TblStudentInfo\obj\Debug\Console_TblStudentInfo.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\xceller\Console_TblStudentInfo\obj\Debug\Console_TblStudentInfo.csproj.CoreCompileInputs.cache

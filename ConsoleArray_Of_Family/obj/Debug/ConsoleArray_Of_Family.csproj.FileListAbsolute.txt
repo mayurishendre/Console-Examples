@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\xceller\ConsoleArray_Of_Family\bin\Debug\ConsoleArray_Of_Family.exe.config
+C:\Users\ASUS\Desktop\xceller\ConsoleArray_Of_Family\bin\Debug\ConsoleArray_Of_Family.exe
+C:\Users\ASUS\Desktop\xceller\ConsoleArray_Of_Family\bin\Debug\ConsoleArray_Of_Family.pdb
+C:\Users\ASUS\Desktop\xceller\ConsoleArray_Of_Family\obj\Debug\ConsoleArray_Of_Family.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\xceller\ConsoleArray_Of_Family\obj\Debug\ConsoleArray_Of_Family.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\xceller\ConsoleArray_Of_Family\obj\Debug\ConsoleArray_Of_Family.exe
+C:\Users\ASUS\Desktop\xceller\ConsoleArray_Of_Family\obj\Debug\ConsoleArray_Of_Family.pdb

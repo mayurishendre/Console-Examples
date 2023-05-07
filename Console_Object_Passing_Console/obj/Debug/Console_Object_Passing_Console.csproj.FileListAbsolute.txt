@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\xceller\Console_Object_Passing_Console\bin\Debug\Console_Object_Passing_Console.exe.config
+C:\Users\ASUS\Desktop\xceller\Console_Object_Passing_Console\bin\Debug\Console_Object_Passing_Console.exe
+C:\Users\ASUS\Desktop\xceller\Console_Object_Passing_Console\bin\Debug\Console_Object_Passing_Console.pdb
+C:\Users\ASUS\Desktop\xceller\Console_Object_Passing_Console\obj\Debug\Console_Object_Passing_Console.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\xceller\Console_Object_Passing_Console\obj\Debug\Console_Object_Passing_Console.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\xceller\Console_Object_Passing_Console\obj\Debug\Console_Object_Passing_Console.exe
+C:\Users\ASUS\Desktop\xceller\Console_Object_Passing_Console\obj\Debug\Console_Object_Passing_Console.pdb

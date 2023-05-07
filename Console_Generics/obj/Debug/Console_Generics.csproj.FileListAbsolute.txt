@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\xceller\Console_Generics\bin\Debug\Console_Generics.exe.config
+C:\Users\ASUS\Desktop\xceller\Console_Generics\bin\Debug\Console_Generics.exe
+C:\Users\ASUS\Desktop\xceller\Console_Generics\bin\Debug\Console_Generics.pdb
+C:\Users\ASUS\Desktop\xceller\Console_Generics\obj\Debug\Console_Generics.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\xceller\Console_Generics\obj\Debug\Console_Generics.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\xceller\Console_Generics\obj\Debug\Console_Generics.exe
+C:\Users\ASUS\Desktop\xceller\Console_Generics\obj\Debug\Console_Generics.pdb
